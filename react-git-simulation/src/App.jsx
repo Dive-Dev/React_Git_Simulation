@@ -17,7 +17,7 @@ function App() {
             <p>chethan: I have answered the question can u check if there is any conflict?</p>
             <p>Dives: No, the conflict wasn't raised.</p>
             <p>chethan:yes i did</p>
-            
+            <p>chethan:has your conflict come?</p>
         </div>
     </>
   )
