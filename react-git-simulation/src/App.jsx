@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 
 function App() {
@@ -9,6 +8,7 @@ function App() {
       <div className="card">
             <p>Divesh: Hey I am Divesh ? It's nice to meet you!</p>
             <p>chethan: Hi this is chethan nice to meet you . i hope you are doing well </p>
+            <p>Divesh:Yes, I am doing well to . What about you ?</p>
         </div>
     </>
   )
