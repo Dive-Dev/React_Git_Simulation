@@ -19,6 +19,7 @@ function App() {
             <p>chethan:yes i did</p>
             <p>chethan:has your conflict come?</p>
             <p>Divesh:Yes,I received the conflict too .</p>
+           <p>chethan:congrats on getting the conflict</p>
         </div>
     </>
   )
