@@ -14,6 +14,9 @@ function App() {
             <p>What is 2+2= 4 . I want you to replace the answer with question and send me back. </p>
             <p>chethan: i have answered the question can u check if there is any conflict?</p>
             <p>chethan:Have my conflict has been reached to u?</p>
+            <p>chethan: I have answered the question can u check if there is any conflict?</p>
+            <p>Dives: No, the conflict wasn't raised.</p>
+            
         </div>
     </>
   )
