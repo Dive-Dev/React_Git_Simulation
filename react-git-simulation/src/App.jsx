@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Conversation Between Two Develpers</h1>
+      <h1>Conversation Between Two Developer's</h1>
       <div className="card">
             <p>Divesh: Hey I am Divesh ? It's nice to meet you!</p>
             <p>chethan: Hi this is chethan nice to meet you . i hope you are doing well </p>
@@ -16,10 +16,10 @@ function App() {
             <p>chethan:Have my conflict has been reached to u?</p>
             <p>chethan: I have answered the question can u check if there is any conflict?</p>
             <p>Divesh: No, the conflict wasn't raised.</p>
-            <p>chethan:yes i did</p>
-            <p>chethan:has your conflict come?</p>
+            <p>chethan:Yes i did.</p>
+            <p>chethan:Has your conflict come?</p>
             <p>Divesh:Yes,I received the conflict too .</p>
-            <p>Divesh:Are yu still there ?</p>
+           <p>chethan:Congrats on getting the conflict.</p>
         </div>
     </>
   )
