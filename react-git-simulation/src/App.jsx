@@ -9,6 +9,7 @@ function App() {
             <p>Divesh: Hey I am Divesh ? It's nice to meet you!</p>
             <p>chethan: Hi this is chethan nice to meet you . i hope you are doing well </p>
             <p>Divesh:Yes, I am doing well to . What about you ?</p>
+            <p>chethan:I am also doing good . How is your college and how are your studies going on?</p>
         </div>
     </>
   )
