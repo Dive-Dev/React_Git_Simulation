@@ -13,8 +13,8 @@ function App() {
             <p>Divesh:Hey let's raise Conflict ? I want you to answer my Question?</p>
             <p>What is 2+2= 4 . I want you to replace the answer with question and send me back. </p>
             <p>chethan: I have answered the question can u check if there is any conflict?</p>
-            <p>Dives: No, the conflict wasn't raised.</p>
-            
+            <p>Divesh: No, the conflict wasn't raised.</p>
+            <p>Divesh:Did you get any conflict?</p>
         </div>
     </>
   )
